@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "cl.exe",
+    "files.associations": {
+        "product_hunting.C": "cpp"
+    }
+}
